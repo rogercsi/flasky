@@ -14,4 +14,3 @@ class Config(object):
     MAIL_PASSWORD = os.environ.get('MAIL_PASSWORD')
     ADMINS = ['flask_test_2018@163.com']
     POSTS_PER_PAGE = 3
-    POSTS_PER_PAGE = 25
